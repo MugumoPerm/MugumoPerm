@@ -1,12 +1,12 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=MugumoPerm&theme=git-dark)](https://git.io/streak-stats)
 
-My name is William Kubai
+My name is Perminus Karanja
 ===============================
 
 software engineering student
 ----------------------------
 
-I am a software engineering student at Alx Africa, currently learning several programming languages including C, Python, SQL, JavaScript, HTML, and CSS. As a student, I am focused on building a solid foundation in these programming languages and developing my skills in software development. My studies involve learning to write code, designing and implementing algorithms, and creating applications and software systems. Ultimately, I aim to become a skilled and proficient software engineer who can develop innovative solutions to complex problems.
+I am a software engineering student at Masaai Mara University.
 
 
 <a href="https://www.github.com/MugumoPerm" target="_blank" rel="noreferrer"><img
