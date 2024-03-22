@@ -38,5 +38,3 @@ src="https://img.shields.io/twitter/follow/theetwin32?logo=twitter&style=for-the
 <a href="http://www.github.com/MugumoPerm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MugumoPerm&stroke=ffffff&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-<a href="http://www.github.com/MugumoPerm"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MugumoPerm&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
